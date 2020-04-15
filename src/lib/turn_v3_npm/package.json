@@ -1,0 +1,50 @@
+{
+  "_args": [
+    [
+      "turn.js@1.0.5",
+      "D:\\flexilivre\\bookPlayer\\book-player-vue"
+    ]
+  ],
+  "_from": "turn.js@1.0.5",
+  "_id": "turn.js@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-R/oiRcrF/USwtkMWomrt72/yIaQ=",
+  "_location": "/turn.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "turn.js@1.0.5",
+    "name": "turn.js",
+    "escapedName": "turn.js",
+    "rawSpec": "1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/turn.js/-/turn.js-1.0.5.tgz",
+  "_spec": "1.0.5",
+  "_where": "D:\\flexilivre\\bookPlayer\\book-player-vue",
+  "author": {
+    "name": "Andrea Gherardi",
+    "email": "a.gherardi@cantierecreativo.net"
+  },
+  "bugs": {
+    "url": "https://github.com/igghera/turn.js/issues"
+  },
+  "dependencies": {
+    "jquery": "1.12.0"
+  },
+  "description": "Web page flipper",
+  "homepage": "https://github.com/igghera/turn.js#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "turn.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igghera/turn.js.git"
+  },
+  "version": "1.0.5"
+}
