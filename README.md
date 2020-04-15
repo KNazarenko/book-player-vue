@@ -1,6 +1,6 @@
-# book-player-vue
+# bookplayer-vue-app
 
-### [Demo](http://bookplayer.zzz.com.ua/)
+### [Demo](https://bookplayer.netlify.com/)
 
 ## Project setup
 
