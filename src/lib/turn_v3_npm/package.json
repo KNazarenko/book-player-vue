@@ -35,7 +35,7 @@
     "url": "https://github.com/igghera/turn.js/issues"
   },
   "dependencies": {
-    "jquery": "1.12.0"
+    "jquery": "3.5.0"
   },
   "description": "Web page flipper",
   "homepage": "https://github.com/igghera/turn.js#readme",
