@@ -1,4 +1,4 @@
-# book-player-vue-test
+# book-player-vue
 
 ### [Demo](http://bookplayer.zzz.com.ua/)
 

@@ -52,8 +52,8 @@
 `
 <script>
 import $ from "jquery";
-// import "turn.js";
-require("./lib/turn_v3_npm/index");
+import "turn.js";
+// require("./lib/turn_v3_npm/index");
 import Book from "./components/Book";
 import Arrow from "./components/Arrow";
 
